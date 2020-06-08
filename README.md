@@ -2,7 +2,7 @@
 My First Repository...
 Does it read html?
 <div class="row">
-  <span style="color=#c21700">
-  nope
-  </span>
+  <strong>
+  Of course it does!!
+  </strong>
 </div>
